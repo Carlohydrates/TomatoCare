@@ -10,4 +10,4 @@ A Supply and Demand Forecasting Support Tool for Tomatoes Using ARIMA Modeling
 6. numpy
 
 You can install the required dependencies using pip:
-|pip install pandas matplotlib statsmodels scikit-learn numpy|
+||pip install pandas matplotlib statsmodels scikit-learn numpy||
