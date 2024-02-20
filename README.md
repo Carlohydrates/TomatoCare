@@ -20,7 +20,7 @@ This script performs the following tasks:
 6. numpy
 
 You can install the required dependencies using pip:
-- pip install pandas matplotlib statsmodels scikit-learn numpy
+`pip install pandas matplotlib statsmodels scikit-learn numpy`
 
 ## Usage
 1. Ensure that the csv files are located in the same directory as the Python scripts.
